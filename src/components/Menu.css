@@ -1,0 +1,17 @@
+.list-menu li {
+    display: inline-block;
+    margin-right: .5rem;
+    width: 40%;
+}
+
+.alert {
+    margin: 1% auto;
+    width: 80%;
+}
+
+@media only screen and (max-width: 720px) {
+    .list-menu li {
+        margin: 1% auto;
+        width: 80%;
+    }
+  }
